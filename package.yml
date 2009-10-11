@@ -1,7 +1,7 @@
 name:  Kwicks
 author:  davidwalsh
-current:  
-category:  
-tags:  []
-docs:  
-demo:  
+current:  1.0
+category:  Effects
+tags:  [kwicks,menu,fx]
+docs:  http://davidwalsh.name/js/kwicks
+demo:  http://davidwalsh.name/js/kwicks
